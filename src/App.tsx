@@ -8,7 +8,7 @@ function App() {
   const [showRedirect, setShowRedirect] = useState<boolean>(false);
   const [showIframe, setShowIframe] = useState<boolean>(false);
 
-  const mobileUrl = 'https://reabotlives.netlify.app';
+  const mobileUrl = 'https://reabot6.netlify.app/';
   const desktopUrl = 'https://portfolio-wine-kappa-99.vercel.app/';
 
   useEffect(() => {
